@@ -1,0 +1,27 @@
+Apple, Fruits, Organic Farms, 1.99, 50
+Banana, Fruits, Organic Farms, 0.99, 100
+Bread, Bakery, Artisan Bakers, 2.49, 30
+Milk, Dairy, Fresh Dairy, 3.99, 20
+Eggs, Dairy, Fresh Dairy, 2.99, 40
+Cheese, Dairy, Pure Eats, 4.99, 15
+Yogurt, Dairy, Pure Eats, 1.49, 25
+Fish, Seafood, Ocean Fresh, 5.99, 18
+Rice, Grains, Superfood Grains, 2.99, 40
+Pasta, Grains, Superfood Grains, 1.99, 30
+Cereal, Breakfast, Crunchy Delights, 3.49, 25
+Tomato, Produce, Fresh Picks, 0.99, 60
+Potato, Produce, Farm Fresh, 1.49, 50
+Carrot, Produce, Fresh Picks, 0.79, 70
+Lettuce, Produce, Fresh Picks, 1.99, 30
+Onion, Produce, Sweet Farms, 0.89, 80
+Garlic, Produce, Farm Fresh, 0.49, 100
+Avocado, Fruits, Green Harvest, 2.99, 15
+Strawberries, Fruits, Organic Farms, 3.99, 20
+Blueberries, Fruits, Organic Farms, 4.99, 18
+Orange Juice, Beverages, Balkis, 2.99, 25
+Coffee, Beverages, Roasted Beans, 6.99, 10
+Tea, Beverages, Lipton, 3.49, 30
+Water, Beverages, Evian, 0.99, 100
+Soda, Beverages, Fizzy Bubbles, 1.49, 80
+Chocolate, Snacks, Sweet Treats, 2.49, 40
+Ice Cream, Frozen Foods, Sweet Treats, 4.99, 15

@@ -1,0 +1,30 @@
+Sarah Johnson, Cashier, 25, 25000
+David Lee, Store Manager, 35, 50000
+Maria Rodriguez, Stock Clerk, 28, 30000
+Robert Brown, Assistant Manager, 30, 45000
+Emily Davis, Customer Service Representative, 23, 22000
+Michael Wilson, Deli Counter Attendant, 27, 28000
+Jennifer Thompson, Produce Associate, 31, 32000
+Daniel Martinez, Bakery Chef, 34, 40000
+Jessica Taylor, Inventory Control Specialist, 29, 35000
+Andrew Anderson, Butcher, 33, 38000
+Sophia Hernandez, Cashier, 24, 23000
+Christopher Garcia, Store Manager, 37, 55000
+Olivia Moore, Stock Clerk, 26, 27000
+Matthew Clark, Assistant Manager, 32, 48000
+Ava Lewis, Customer Service Representative, 25, 24000
+Liam Hall, Deli Counter Attendant, 28, 30000
+Victoria Young, Produce Associate, 30, 33000
+Joshua Rodriguez, Bakery Chef, 36, 42000
+Charlotte Turner, Inventory Control Specialist, 31, 34000
+Ethan White, Butcher, 35, 40000
+Amelia King, Cashier, 26, 26000
+Daniel Lewis, Store Manager, 38, 58000
+Sofia Adams, Stock Clerk, 27, 29000
+Logan Parker, Assistant Manager, 33, 49000
+Mia Green, Customer Service Representative, 24, 21000
+Henry Wright, Deli Counter Attendant, 29, 31000
+Grace Walker, Produce Associate, 31, 33000
+Jackson Hill, Bakery Chef, 37, 43000
+Chloe Scott, Inventory Control Specialist, 32, 36000
+Lucas Murphy, Butcher, 36, 42000
